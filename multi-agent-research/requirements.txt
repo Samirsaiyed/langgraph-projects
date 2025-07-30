@@ -1,0 +1,6 @@
+langgraph 
+langchain-openai 
+streamlit 
+requests 
+beautifulsoup4 
+python-dotenv
